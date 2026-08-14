@@ -1,0 +1,9 @@
+{
+  "name": "pettravel-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "펫트래블 - 한국관광공사/강원도/식품안전나라 데이터를 통합하는 Vercel 서버리스 백엔드",
+  "engines": {
+    "node": ">=18"
+  }
+}
