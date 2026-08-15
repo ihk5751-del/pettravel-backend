@@ -15,12 +15,15 @@ const { resolveRegionName } = require("./_lib/ldong");
 const TOUR_API_BASE = "https://apis.data.go.kr/B551011/KorPetTourService2";
 
 // contenttypeid -> 우리 카테고리 매핑
+// 표준 TourAPI contenttypeid (실제 API 응답이 이 체계를 씀 - "신분류코드"인 75~85와는 다른 구분류코드)
+// 12=관광지, 14=문화시설, 15=축제공연행사, 25=여행코스, 28=레포츠, 32=숙박, 38=쇼핑, 39=음식점
 const CONTENTTYPE_MAP = {
-  "80": "숙소",
-  "82": "식당",
-  "76": "관광지",
-  "78": "관광지",
-  "75": "관광지",
+  "32": "숙소",
+  "39": "식당",
+  "12": "관광지",
+  "14": "관광지",
+  "28": "관광지",
+  "25": "관광지",
 };
 
 // 캐시 (서버리스 함수는 매 요청마다 새로 뜰 수 있어서 완벽하진 않지만,
