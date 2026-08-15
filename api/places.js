@@ -50,7 +50,7 @@ async function fetchTourApiList(numOfRows = 20) {
     MobileOS: "ETC",
     MobileApp: "PetTravel",
     _type: "json",
-    arrange: "A",
+    arrange: "O", // O = 대표이미지가 있는 정보 우선 정렬
   });
 
   const listUrl = `${TOUR_API_BASE}/areaBasedList2?${params.toString()}`;
