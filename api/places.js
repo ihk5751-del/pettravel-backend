@@ -116,6 +116,7 @@ async function fetchTourApiList(numOfRows = 20) {
         lat: item.mapy ? parseFloat(item.mapy) : null,
         lng: item.mapx ? parseFloat(item.mapx) : null,
         amenities,
+        image: item.firstimage || item.firstimage2 || null,
         source: "한국관광공사_반려동물_동반여행_서비스",
       };
     })
