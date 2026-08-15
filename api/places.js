@@ -133,7 +133,7 @@ module.exports = async function handler(req, res) {
   let allPlaces = [];
 
   try {
-    const tourPlaces = await fetchTourApiList(20);
+    const tourPlaces = await fetchTourApiList(60);
     allPlaces = [...tourPlaces, ...gangwonData, ...foodsafetyData];
   } catch (err) {
     console.error("데이터 병합 중 오류:", err);
