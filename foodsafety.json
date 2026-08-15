@@ -1,0 +1,8417 @@
+[
+  {
+    "id": "food-1",
+    "category": "식당",
+    "name": "물치에",
+    "region": "강원",
+    "address": "강원특별자치도 양양군 강현면 장산1길 48-1(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-2",
+    "category": "식당",
+    "name": "큐큐면관홍천소노벨점",
+    "region": "강원",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262(오크동지하1층 BOOTH3)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-3",
+    "category": "식당",
+    "name": "고향집대명비발디점",
+    "region": "강원",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262(오크동지하1층 BOOTH5)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-4",
+    "category": "식당",
+    "name": "멍브레",
+    "region": "강원",
+    "address": "강원특별자치도 삼척시 중앙로 261-1(당저동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-6",
+    "category": "식당",
+    "name": "빵아지",
+    "region": "강원",
+    "address": "강원특별자치도 철원군 근남면 하오재로 2218",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-7",
+    "category": "식당",
+    "name": "힐링앤폴링",
+    "region": "강원",
+    "address": "강원특별자치도 강릉시 명주로 9-1(1층 명주동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-8",
+    "category": "식당",
+    "name": "집사들의 수다",
+    "region": "강원",
+    "address": "강원특별자치도 양양군 서면 남대천로 530-3(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-9",
+    "category": "식당",
+    "name": "손양양",
+    "region": "강원",
+    "address": "강원특별자치도 양양군 손양면 손중로 184(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-10",
+    "category": "식당",
+    "name": "아스트라",
+    "region": "강원",
+    "address": "강원특별자치도 삼척시 수로부인길 453(갈천동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-11",
+    "category": "식당",
+    "name": "SNOOPIZZA(스누피자)",
+    "region": "강원",
+    "address": "강원특별자치도 양양군 강현면 복골길269번길 16-6(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-12",
+    "category": "식당",
+    "name": "강남교자",
+    "region": "강원",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262(오크동지하1층 BOOTH6)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-13",
+    "category": "식당",
+    "name": "하루엔소쿠",
+    "region": "강원",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262(오크동지하1층 BOOTH4)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-14",
+    "category": "식당",
+    "name": "스트릿츄러스홍천비발디파크점",
+    "region": "강원",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262(오크동지하1층BOOTH11)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-15",
+    "category": "식당",
+    "name": "아비꼬대명비발디파크점",
+    "region": "강원",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262(오크동지하1층 BOOTH2)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-16",
+    "category": "식당",
+    "name": "33떡볶이&꼬마김밥 대명비발디파크점",
+    "region": "강원",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262(오크동지하1층 BOOTH1)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-17",
+    "category": "식당",
+    "name": "대관령한우",
+    "region": "강원",
+    "address": "강원특별자치도 평창군 봉평면 태기로 228-33(한화리조트 2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-18",
+    "category": "식당",
+    "name": "요거영",
+    "region": "강원",
+    "address": "강원특별자치도 삼척시 대학로 59-10(1층 당저동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-19",
+    "category": "식당",
+    "name": "싱글핀에일웍스",
+    "region": "강원",
+    "address": "강원특별자치도 양양군 현북면 하조대2길 48-42",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-20",
+    "category": "식당",
+    "name": "송이",
+    "region": "강원",
+    "address": "강원특별자치도 양양군 손양면 선사유적로 678",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-21",
+    "category": "식당",
+    "name": "뜰에샘",
+    "region": "강원",
+    "address": "강원특별자치도 원주시 지정면 지래울로 104-7",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-22",
+    "category": "식당",
+    "name": "도야하우스(doyahaus)",
+    "region": "강원",
+    "address": "강원특별자치도 동해시 발한로 223-1(1,2층 발한동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-23",
+    "category": "식당",
+    "name": "낙산 귀신고래",
+    "region": "강원",
+    "address": "강원특별자치도 양양군 강현면 해맞이길 42-2(2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-24",
+    "category": "식당",
+    "name": "멜로우나리골카페",
+    "region": "강원",
+    "address": "강원특별자치도 삼척시 나리골길 37-6(정하동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-25",
+    "category": "식당",
+    "name": "대게먹방",
+    "region": "강원",
+    "address": "강원특별자치도 삼척시 테마타운길 49(202호 갈천동, 삼척테마타운)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-26",
+    "category": "식당",
+    "name": "삼척해물덮밥 오션테이블",
+    "region": "강원",
+    "address": "강원특별자치도 삼척시 테마타운길 49(401호 갈천동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-28",
+    "category": "식당",
+    "name": "알베로벨로",
+    "region": "경기",
+    "address": "경기도 남양주시 화도읍 경춘로2247번길 16-13(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-29",
+    "category": "식당",
+    "name": "블랙어스(Black Earth)",
+    "region": "경기",
+    "address": "경기도 광주시 청석로 248-6(1층 쌍령동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-30",
+    "category": "식당",
+    "name": "하늘휴게소투썸",
+    "region": "경기",
+    "address": "경기도 시흥시 수도권제1순환고속도로 105(시흥하늘휴게소 1층 일부호 조남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-31",
+    "category": "식당",
+    "name": "스타벅스 구리갈매 DT",
+    "region": "경기",
+    "address": "경기도 구리시 갈매순환로 148(1,2층 갈매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-32",
+    "category": "식당",
+    "name": "더 숲",
+    "region": "경기",
+    "address": "경기도 남양주시 와부읍 수레로661번길 144(2,3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-33",
+    "category": "식당",
+    "name": "커멍요",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 효원로235번길 52(3층 인계동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-34",
+    "category": "식당",
+    "name": "카페댕스",
+    "region": "경기",
+    "address": "경기도 용인시 수지구 성복2로301번길 5(2층 성복동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-35",
+    "category": "식당",
+    "name": "카페스토리",
+    "region": "경기",
+    "address": "경기도 남양주시 와부읍 팔당로81번길 74-65(2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-36",
+    "category": "식당",
+    "name": "다이너 안산중앙점",
+    "region": "경기",
+    "address": "경기도 안산시 단원구 고잔2길 45(201호 고잔동, 코스모프라자)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-37",
+    "category": "식당",
+    "name": "뽁식당고잔점",
+    "region": "경기",
+    "address": "경기도 안산시 단원구 광덕대로 151(고잔동, 708-2  101호,102호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-38",
+    "category": "식당",
+    "name": "오복당",
+    "region": "경기",
+    "address": "경기도 안산시 단원구 광덕2로 163-5(황금프라자 109,110호 고잔동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-39",
+    "category": "식당",
+    "name": "몽드드뚜뚜",
+    "region": "경기",
+    "address": "경기도 포천시 가산면 시우동2길 124(나동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-40",
+    "category": "식당",
+    "name": "멍멍그라운드(mung mung ground)",
+    "region": "경기",
+    "address": "경기도 광주시 포은대로 788-9(1층 역동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-41",
+    "category": "식당",
+    "name": "히든오아시스 동백점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 평촌2로1번길 33(동백동, 1층 102호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-42",
+    "category": "식당",
+    "name": "달래정",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 동백8로 167(지하1층 일부, 1층 전체 동백동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-43",
+    "category": "식당",
+    "name": "두두",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 용구대로 1998(101호 상갈동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-44",
+    "category": "식당",
+    "name": "에스프레소 인더홀(espresso in the hole)",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 공세로47번길 78(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-45",
+    "category": "식당",
+    "name": "검은도마",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-46",
+    "category": "식당",
+    "name": "뎁짜이 롯데아울렛기흥점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-47",
+    "category": "식당",
+    "name": "솥밥예찬",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(롯데프리미엄 아울렛 기흥점 2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-48",
+    "category": "식당",
+    "name": "테판프로젝트 기흥점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(롯데프리미엄아울렛 기흥점 2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-49",
+    "category": "식당",
+    "name": "아비꼬 롯데아울렛 기흥점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-50",
+    "category": "식당",
+    "name": "온기정 블랙",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-51",
+    "category": "식당",
+    "name": "어썸테이블",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-52",
+    "category": "식당",
+    "name": "아소정 기흥롯데아울렛점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-53",
+    "category": "식당",
+    "name": "요쇼쿠 롯데프리미엄아울렛 기흥점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-54",
+    "category": "식당",
+    "name": "(주)이가네 기흥점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(롯데프리미엄아울렛 주건축물제1동 2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-55",
+    "category": "식당",
+    "name": "삼백돈 돈가츠(롯데아울렛 기흥점)",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(롯데프리미엄아울렛기흥점 2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-56",
+    "category": "식당",
+    "name": "뉴텝",
+    "region": "경기",
+    "address": "경기도 안산시 단원구 광덕3로 135-14(대우센타 109,110,110-1호 고잔동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-57",
+    "category": "식당",
+    "name": "소요소요",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 산두로 4-20(1층 전체호 마두동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-58",
+    "category": "식당",
+    "name": "메종페퍼",
+    "region": "경기",
+    "address": "경기도 안양시 동안구 신기대로33번길 8(1층 호계동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-59",
+    "category": "식당",
+    "name": "아카루이 라운지",
+    "region": "경기",
+    "address": "경기도 안양시 동안구 시민대로 252(평촌푸르지오센트럴파크 2층 246호 관양동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-60",
+    "category": "식당",
+    "name": "아라해물칼국수",
+    "region": "경기",
+    "address": "경기도 양평군 용문면 용문산로 125",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-61",
+    "category": "식당",
+    "name": "8코기네",
+    "region": "경기",
+    "address": "경기도 양평군 양평읍 쉬자파크길 193-1(카페 1,2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-62",
+    "category": "식당",
+    "name": "담다(DAMDA)",
+    "region": "경기",
+    "address": "경기도 양평군 옥천면 신복복동길 20-15",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-63",
+    "category": "식당",
+    "name": "브라운테일",
+    "region": "경기",
+    "address": "경기도 양평군 양평읍 양근강변길 106(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-64",
+    "category": "식당",
+    "name": "바베큐(BBQ)레이브",
+    "region": "경기",
+    "address": "경기도 양평군 서종면 수능샘말길 5-24(가동,나동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-65",
+    "category": "식당",
+    "name": "브릭야드",
+    "region": "경기",
+    "address": "경기도 양평군 옥천면 상곡길 35-4",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-66",
+    "category": "식당",
+    "name": "무구순구",
+    "region": "경기",
+    "address": "경기도 여주시 흥천면 신근구터길 13",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-67",
+    "category": "식당",
+    "name": "아기사자",
+    "region": "경기",
+    "address": "경기도 여주시 흥천면 효자로 51-21",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-68",
+    "category": "식당",
+    "name": "(주)플루크가드니아거북섬점",
+    "region": "경기",
+    "address": "경기도 시흥시 거북섬둘레길 10(시화MTV 메가스퀘어 2층 208-1, 208~218호 정왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-69",
+    "category": "식당",
+    "name": "카페작은숲",
+    "region": "경기",
+    "address": "경기도 광주시 남한산성면 남한산성로780번길 45(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-70",
+    "category": "식당",
+    "name": "리프사운드 베이커리카페",
+    "region": "경기",
+    "address": "경기도 하남시 미사대로 750(스타필드 하남 지하1, 1층 G277, 1290호 신장동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-71",
+    "category": "식당",
+    "name": "폴앤데이지",
+    "region": "경기",
+    "address": "경기도 하남시 미사강변한강로 270-1(미사역 호반 써밋 201동 1층 1-115,116,117호 망월동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-72",
+    "category": "식당",
+    "name": "더피제리아마켓 하남미사점",
+    "region": "경기",
+    "address": "경기도 하남시 미사강변북로30번길 129(1층 망월동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-73",
+    "category": "식당",
+    "name": "Table de pasta(테이블 드 파스타)",
+    "region": "경기",
+    "address": "경기도 하남시 미사강변한강로354번길 10(YE HOUSE 1층 망월동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-74",
+    "category": "식당",
+    "name": "온더보더 스타필드하남점",
+    "region": "경기",
+    "address": "경기도 하남시 미사대로 750(스타필드 하남 지하1층 신장동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-75",
+    "category": "식당",
+    "name": "에베레스트",
+    "region": "경기",
+    "address": "경기도 하남시 미사대로 750(스타필드 하남 지하1층 신장동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-76",
+    "category": "식당",
+    "name": "올스토리",
+    "region": "경기",
+    "address": "경기도 의정부시 가능로49번길 16(지상1층 가능동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-77",
+    "category": "식당",
+    "name": "이태리밀",
+    "region": "경기",
+    "address": "경기도 성남시 중원구 도촌로7번길 18(1층 도촌동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-78",
+    "category": "식당",
+    "name": "세가지(3egaji)",
+    "region": "경기",
+    "address": "경기도 성남시 중원구 둔촌대로64번길 4-4(1층 성남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-79",
+    "category": "식당",
+    "name": "재화애견수제간식&재화간식",
+    "region": "경기",
+    "address": "경기도 수원시 장안구 팔달로199번길 15(1층 101호 영화동, 다원주택)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-80",
+    "category": "식당",
+    "name": "모해",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 창룡대로80번길 10-4(1층 남수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-81",
+    "category": "식당",
+    "name": "화차",
+    "region": "경기",
+    "address": "경기도 이천시 경충대로 2767(A동 1층 관고동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-82",
+    "category": "식당",
+    "name": "스웜프커피(SWAMP COFFEE)",
+    "region": "경기",
+    "address": "경기도 남양주시 와부읍 덕소로116번길 20(1-111호 세양청마루)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-83",
+    "category": "식당",
+    "name": "이프",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 정조로861번길 10(2층 신풍동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-84",
+    "category": "식당",
+    "name": "할리우드",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 신풍로23번길 4(2층 신풍동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-85",
+    "category": "식당",
+    "name": "빔프(BIMP)",
+    "region": "경기",
+    "address": "경기도 의정부시 오목로225번길 89-21(지상 1층 민락동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-86",
+    "category": "식당",
+    "name": "오케키",
+    "region": "경기",
+    "address": "경기도 파주시 산내로7번길 7-2(1층 목동동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-87",
+    "category": "식당",
+    "name": "주식회사 엠에프지코리아 매드포갈릭 안성스타필드점",
+    "region": "경기",
+    "address": "경기도 안성시 공도읍 서동대로 3930-39(스타필드 안성 L2층 2270호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-88",
+    "category": "식당",
+    "name": "빌라드파넬",
+    "region": "경기",
+    "address": "경기도 용인시 처인구 백암면 박곡로 196(주1동1층, 주3동1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-89",
+    "category": "식당",
+    "name": "블루웨이브커피시흥거북섬점",
+    "region": "경기",
+    "address": "경기도 시흥시 거북섬4길 14(2층 207,208호 정왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-90",
+    "category": "식당",
+    "name": "피크닉(Picnic)",
+    "region": "경기",
+    "address": "경기도 시흥시 거북섬둘레길 34(1층 103, 104호 정왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-91",
+    "category": "식당",
+    "name": "Thinking Dog(띵킹 독)",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 태극로 18(소노캄고양웨스트타워 1층 106일부호, 107일부호 장항동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-92",
+    "category": "식당",
+    "name": "초코앤멜로우",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 산두로 67(1층 일부호 마두동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-93",
+    "category": "식당",
+    "name": "하백",
+    "region": "경기",
+    "address": "경기도 남양주시 화도읍 북한강로 1136(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-94",
+    "category": "식당",
+    "name": "마담마담",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 화서문로 27(1층 장안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-95",
+    "category": "식당",
+    "name": "헤이븐즈",
+    "region": "경기",
+    "address": "경기도 부천시 소사구 양지로 111-27(1,2층 범박동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-96",
+    "category": "식당",
+    "name": "DDogDog(똑독)",
+    "region": "경기",
+    "address": "경기도 부천시 소사구 연동로 112(주프레시푸드 3층 옥길동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-97",
+    "category": "식당",
+    "name": "치바오 롯데프리미엄아울렛 기흥점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-98",
+    "category": "식당",
+    "name": "후쿠쵸라멘 롯데프리미엄 아울렛 기흥점",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-99",
+    "category": "식당",
+    "name": "정오의식탁",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신고매로 124(롯데프리미엄아울렛 기흥점 2층 일부호 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-100",
+    "category": "식당",
+    "name": "에르베테이블",
+    "region": "경기",
+    "address": "경기도 용인시 수지구 고기로377번길 45-13(1층,2층 고기동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-101",
+    "category": "식당",
+    "name": "ngl(엔지엘)",
+    "region": "경기",
+    "address": "경기도 용인시 처인구 금령로40번길 12(1층 일부 김량장동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-102",
+    "category": "식당",
+    "name": "편편집 양주옥정점",
+    "region": "경기",
+    "address": "경기도 양주시 회천남로 76(한덕타워 204호 옥정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-103",
+    "category": "식당",
+    "name": "모멘트커피 로스터리",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 하늘마을로93번길 18-16(중산동, 주건축물제1동 1층일부)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-104",
+    "category": "식당",
+    "name": "고매커피",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 원고매로2번길 85-2(1층 고매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-105",
+    "category": "식당",
+    "name": "레이크라이크",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 동백5로 22(쥬네브문월드빌딩 가동 지하1층 B161호 중동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-106",
+    "category": "식당",
+    "name": "장어타운 부천점",
+    "region": "경기",
+    "address": "경기도 부천시 소사구 양지로 102(110,111,112,113호 범박동, 양지프라자)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-107",
+    "category": "식당",
+    "name": "카페여주",
+    "region": "경기",
+    "address": "경기도 여주시 강천면 강문로 703",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-108",
+    "category": "식당",
+    "name": "체인지그린",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 산두로175번길 29(지하1층, 1층 전체호 정발산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-109",
+    "category": "식당",
+    "name": "카페 유어프레즌트 의정부점",
+    "region": "경기",
+    "address": "경기도 의정부시 오목로225번길 60-3(지상1층 민락동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-110",
+    "category": "식당",
+    "name": "다락",
+    "region": "경기",
+    "address": "경기도 의정부시 시민로132번길 11(지상2층 의정부동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-111",
+    "category": "식당",
+    "name": "리프앤로프",
+    "region": "경기",
+    "address": "경기도 의정부시 장곡로 620(지상1층 101-1호,102호,103호 신곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-112",
+    "category": "식당",
+    "name": "푸지하우스(FUJI HOUSE)",
+    "region": "경기",
+    "address": "경기도 의정부시 신흥로 369-3(지상 1층 가능동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-113",
+    "category": "식당",
+    "name": "조아의 하루",
+    "region": "경기",
+    "address": "경기도 파주시 광탄면 혜음로 1191(1층.2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-114",
+    "category": "식당",
+    "name": "자빠따독",
+    "region": "경기",
+    "address": "경기도 파주시 번뛰기길 147(2층 전체 야당동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-115",
+    "category": "식당",
+    "name": "스타벅스 더북한강R",
+    "region": "경기",
+    "address": "경기도 남양주시 화도읍 북한강로 1098(1~3층 및 옥탑층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-116",
+    "category": "식당",
+    "name": "또오리",
+    "region": "경기",
+    "address": "경기도 파주시 경의로 999-1(1층 야당동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-117",
+    "category": "식당",
+    "name": "뽁식당배곧점",
+    "region": "경기",
+    "address": "경기도 시흥시 서울대학로264번길 25(시흥배곧 아브뉴프랑 센트럴 블루 2층 226,227,228호 정왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-118",
+    "category": "식당",
+    "name": "샬로우커피 하남미사점",
+    "region": "경기",
+    "address": "경기도 하남시 미사강변북로30번안길 31(1층 망월동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-119",
+    "category": "식당",
+    "name": "으르렁 애견카페",
+    "region": "경기",
+    "address": "경기도 파주시 미래로 369-59(501호 동패동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-120",
+    "category": "식당",
+    "name": "글램독그라운드애견까페",
+    "region": "경기",
+    "address": "경기도 파주시 지목로 50(1동,2동 전체 문발동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-121",
+    "category": "식당",
+    "name": "드노피",
+    "region": "경기",
+    "address": "경기도 성남시 분당구 방아로 82(최상섭근린주택 지하1층 이매동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-122",
+    "category": "식당",
+    "name": "마지아 브레드하우스",
+    "region": "경기",
+    "address": "경기도 성남시 분당구 새마을로 173(율동, 1층, 2층 전부)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-123",
+    "category": "식당",
+    "name": "마이페이보릿네이버",
+    "region": "경기",
+    "address": "경기도 성남시 분당구 판교대장로4길 22(1층 일부102호호 대장동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-124",
+    "category": "식당",
+    "name": "다이키흰고래",
+    "region": "경기",
+    "address": "경기도 안산시 단원구 이삭2길 65(1층 전체 고잔동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-125",
+    "category": "식당",
+    "name": "인유어코너",
+    "region": "경기",
+    "address": "경기도 시흥시 거북섬2길 25(5층 505호 정왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-126",
+    "category": "식당",
+    "name": "프랭크커핀바 일산웨스턴돔",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 정발산로 24(웨스턴돔1 A-209호 장항동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-127",
+    "category": "식당",
+    "name": "쏘케이크",
+    "region": "경기",
+    "address": "경기도 이천시 중리천로34번길 26(1층 중리동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-128",
+    "category": "식당",
+    "name": "만석궁",
+    "region": "경기",
+    "address": "경기도 화성시 병점구 안녕길 6(SM스퀘어1 3동 지1층 일부호 안녕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-129",
+    "category": "식당",
+    "name": "어부의밥상",
+    "region": "경기",
+    "address": "경기도 광명시 소하로 81(8층 전부호 소하동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-130",
+    "category": "식당",
+    "name": "4 WEEKS COFFEE(포윅스커피)",
+    "region": "경기",
+    "address": "경기도 의정부시 태평로 14(지상1층 의정부동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-131",
+    "category": "식당",
+    "name": "프레임프레임드",
+    "region": "경기",
+    "address": "경기도 고양시 덕양구 성신로 10(1층 105호 화정동, 글로벌테마프라자)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-132",
+    "category": "식당",
+    "name": "카페사무소",
+    "region": "경기",
+    "address": "경기도 의정부시 범골로158번길 46(지상1층 의정부동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-133",
+    "category": "식당",
+    "name": "아리수수상레저",
+    "region": "경기",
+    "address": "경기도 여주시 현암동 662",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-134",
+    "category": "식당",
+    "name": "예지현",
+    "region": "경기",
+    "address": "경기도 여주시 세종로 310",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-135",
+    "category": "식당",
+    "name": "플러피펍",
+    "region": "경기",
+    "address": "경기도 여주시 흥천면 문바실길 107-4(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-136",
+    "category": "식당",
+    "name": "해승리시골밥상",
+    "region": "경기",
+    "address": "경기도 여주시 연하동로 141",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-137",
+    "category": "식당",
+    "name": "모드니에",
+    "region": "경기",
+    "address": "경기도 여주시 현암2길 28-5(1층 현암동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-138",
+    "category": "식당",
+    "name": "몬더그린커피(mondegreencoffee)",
+    "region": "경기",
+    "address": "경기도 남양주시 다산순환로 356(푸리마타워 제1동 1층 111호 다산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-139",
+    "category": "식당",
+    "name": "추오정남원추어탕 삼송점",
+    "region": "경기",
+    "address": "경기도 고양시 덕양구 고양대로1954번길 5(A동 1,2층 전체호 동산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-140",
+    "category": "식당",
+    "name": "탐(TAM)",
+    "region": "경기",
+    "address": "경기도 의정부시 평화로474번길 30(지상1층 의정부동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-141",
+    "category": "식당",
+    "name": "복지순두부",
+    "region": "경기",
+    "address": "경기도 포천시 내촌면 금강로 2700",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-142",
+    "category": "식당",
+    "name": "그리네 오아시스",
+    "region": "경기",
+    "address": "경기도 포천시 소흘읍 죽엽산로 442(가동 1층, 나동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-143",
+    "category": "식당",
+    "name": "쿠키한입",
+    "region": "경기",
+    "address": "경기도 하남시 위례대로 220(위례 지웰푸르지오 상가동 1층 118호 학암동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-144",
+    "category": "식당",
+    "name": "시오스",
+    "region": "경기",
+    "address": "경기도 하남시 하남대로739번길 70(1, 2층 신장동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-145",
+    "category": "식당",
+    "name": "비스토리",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 정발산로42번길 38(장항동, 라이저 오피스텔 104호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-146",
+    "category": "식당",
+    "name": "계정횟집",
+    "region": "경기",
+    "address": "경기도 양평군 양동면 양서북로 666-13",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-147",
+    "category": "식당",
+    "name": "골목집",
+    "region": "경기",
+    "address": "경기도 의정부시 태평로107번길 12(의정부동,지상1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-148",
+    "category": "식당",
+    "name": "남양주카페 달쉼",
+    "region": "경기",
+    "address": "경기도 남양주시 와부읍 안골로 59-28(주건축물제1동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-149",
+    "category": "식당",
+    "name": "생활관",
+    "region": "경기",
+    "address": "경기도 안산시 상록구 이동공원로 35(1층 이동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-150",
+    "category": "식당",
+    "name": "르미스트랄(LEMISTRAL)",
+    "region": "경기",
+    "address": "경기도 광주시 태전동1길 16(1층 태전동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-151",
+    "category": "식당",
+    "name": "DEEP(딥딥딥)",
+    "region": "경기",
+    "address": "경기도 고양시 덕양구 동산1로 38(1층 동산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-152",
+    "category": "식당",
+    "name": "수다",
+    "region": "경기",
+    "address": "경기도 안양시 동안구 관악대로342번길 28(1층 전체호 관양동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-153",
+    "category": "식당",
+    "name": "디켄트(Dekent)",
+    "region": "경기",
+    "address": "경기도 성남시 분당구 판교역로18번길 4(1층 백현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-154",
+    "category": "식당",
+    "name": "JM닭강정",
+    "region": "경기",
+    "address": "경기도 용인시 처인구 포곡읍 전대로49번길 1(1층 일부)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-155",
+    "category": "식당",
+    "name": "벤더커피",
+    "region": "경기",
+    "address": "경기도 성남시 분당구 불정로71번길 3(1층 일부 정자동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-156",
+    "category": "식당",
+    "name": "수국수",
+    "region": "경기",
+    "address": "경기도 오산시 궐리사로 59(1층 일부호 궐동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-157",
+    "category": "식당",
+    "name": "수상한감자탕*뼈찜",
+    "region": "경기",
+    "address": "경기도 오산시 오산로198번길 28(원동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-158",
+    "category": "식당",
+    "name": "카페 캐쉬",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 정발산로 24(웨스턴돔2 B172전체호 장항동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-159",
+    "category": "식당",
+    "name": "남사커피",
+    "region": "경기",
+    "address": "경기도 용인시 처인구 남사읍 경기동로518번길 58(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-160",
+    "category": "식당",
+    "name": "(주)커피빈코리아 부천스타필드시티점",
+    "region": "경기",
+    "address": "경기도 부천시 소사구 옥길로 1(스타필드시티 부천 4층 일부호 옥길동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-161",
+    "category": "식당",
+    "name": "에이프(aip)",
+    "region": "경기",
+    "address": "경기도 부천시 소사구 연동로 61(1층 옥길동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-162",
+    "category": "식당",
+    "name": "선미네",
+    "region": "경기",
+    "address": "경기도 부천시 소사구 양지로176번길 8-3(옥길주차타워 1층 116호 옥길동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-163",
+    "category": "식당",
+    "name": "단이네포차",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 효원로308번길 16(1층 103호 인계동, 한화 꿈에그린 파크)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-164",
+    "category": "식당",
+    "name": "뽁식당 행궁동점",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 신풍로 34-1(플레이스베카 1층 신풍동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-165",
+    "category": "식당",
+    "name": "ChapChap(찹찹)",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 수원천로 353(2층 북수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-166",
+    "category": "식당",
+    "name": "휴일도",
+    "region": "경기",
+    "address": "경기도 이천시 신둔면 마소로11번길 34-15(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-167",
+    "category": "식당",
+    "name": "55도",
+    "region": "경기",
+    "address": "경기도 이천시 대월면 대월로 956(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-168",
+    "category": "식당",
+    "name": "미쎄쏘커피",
+    "region": "경기",
+    "address": "경기도 오산시 역광장로 92(1층  오산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-169",
+    "category": "식당",
+    "name": "하지커피숍(HAJICOFFEESHOP)",
+    "region": "경기",
+    "address": "경기도 성남시 수정구 위례광장로 19(아이페리온 1층 106호 창곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-170",
+    "category": "식당",
+    "name": "리사르커피 분당점",
+    "region": "경기",
+    "address": "경기도 성남시 분당구 정자일로 146(엠코헤리츠 1단지 1층 A110호 정자동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-171",
+    "category": "식당",
+    "name": "에그앤피넛",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 일산로380번길 63-32(1층 전체호 정발산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-172",
+    "category": "식당",
+    "name": "글래드",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 일산로463번길 34(1층 일부호 정발산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-173",
+    "category": "식당",
+    "name": "우디드커피",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 정조로905번길 7-16(1~2층 장안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-174",
+    "category": "식당",
+    "name": "카페그레코&곰굽당",
+    "region": "경기",
+    "address": "경기도 안산시 단원구 광덕2로 156-11(MK주차타워 115호 고잔동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-175",
+    "category": "식당",
+    "name": "붐디야다",
+    "region": "경기",
+    "address": "경기도 이천시 어재연로18번길 11(중리동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-176",
+    "category": "식당",
+    "name": "BaV COFFEE(바브 커피)",
+    "region": "경기",
+    "address": "경기도 의정부시 장곡로 464(지상1층 신곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-177",
+    "category": "식당",
+    "name": "카페올더(Cafe Older)",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 숲속마을2로 46(1층 일부호 풍동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-178",
+    "category": "식당",
+    "name": "티파니가든 애견카페 애견유치원 애견호텔",
+    "region": "경기",
+    "address": "경기도 광주시 보뚱치길 25(1층 문형동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-179",
+    "category": "식당",
+    "name": "테일즈파크",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신정로41번길 95-31(가,나동 신갈동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-180",
+    "category": "식당",
+    "name": "스테이어도러블",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 죽전로43번길 15-3(1층 보정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-181",
+    "category": "식당",
+    "name": "수잔",
+    "region": "경기",
+    "address": "경기도 고양시 덕양구 서정마을2로7번길 44(1층 일부호 행신동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-182",
+    "category": "식당",
+    "name": "블루스보이커피",
+    "region": "경기",
+    "address": "경기도 수원시 팔달구 신풍로23번길 52(2층 신풍동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-183",
+    "category": "식당",
+    "name": "CAFE사개",
+    "region": "경기",
+    "address": "경기도 화성시 병점구 반월체육공원길 71-16(1층 반월동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-184",
+    "category": "식당",
+    "name": "디포유",
+    "region": "경기",
+    "address": "경기도 화성시 동탄구 동탄순환대로3가길 14-14(주건축물 제1동 1층 일부호 송동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-185",
+    "category": "식당",
+    "name": "공간 닮",
+    "region": "경기",
+    "address": "경기도 화성시 동탄구 지산2길 20-10(주건축물제1동 1층 일부호 영천동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-186",
+    "category": "식당",
+    "name": "(주)테일즈파크",
+    "region": "경기",
+    "address": "경기도 용인시 기흥구 신정로41번길 95-31(다,라동 신갈동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-187",
+    "category": "식당",
+    "name": "하백",
+    "region": "경기",
+    "address": "경기도 남양주시 화도읍 북한강로 1136(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-188",
+    "category": "식당",
+    "name": "납작슬리퍼",
+    "region": "경기",
+    "address": "경기도 고양시 일산동구 백마로 195(1-1141호 장항동, 일산방송COMPLEX방송관련시설)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-189",
+    "category": "식당",
+    "name": "플로우",
+    "region": "경기",
+    "address": "경기도 의정부시 금오로 91(지상1층 금오동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-190",
+    "category": "식당",
+    "name": "하이몽몽",
+    "region": "경기",
+    "address": "경기도 시흥시 인선1길 8(3층 303호일부호 장곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-191",
+    "category": "식당",
+    "name": "카페.디(CAFE.D)",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 야리로 118(우성프라자 603호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-192",
+    "category": "식당",
+    "name": "뚜두카페",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 백호2길 13-5(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-193",
+    "category": "식당",
+    "name": "카페 수림정원",
+    "region": "경남",
+    "address": "경상남도 고성군 동해면 조선특구로 1958",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-194",
+    "category": "식당",
+    "name": "일품양평해장국사천곤양IC점",
+    "region": "경남",
+    "address": "경상남도 사천시 곤양면 곤양로 61",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-195",
+    "category": "식당",
+    "name": "카페지엘",
+    "region": "경남",
+    "address": "경상남도 밀양시 하남읍 대사길 156-9(1,2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-196",
+    "category": "식당",
+    "name": "송포1357",
+    "region": "경남",
+    "address": "경상남도 사천시 해안관광로 363(송포동[*미고시])",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-197",
+    "category": "식당",
+    "name": "솔 숯불갈비",
+    "region": "경남",
+    "address": "경상남도 양산시 동면 삼송로 79(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-198",
+    "category": "식당",
+    "name": "유토커피",
+    "region": "경남",
+    "address": "경상남도 양산시 상북면 양산대로 1450(3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-199",
+    "category": "식당",
+    "name": "카페 바바라 발리(CAFE BARBARA BALI)",
+    "region": "경남",
+    "address": "경상남도 거제시 일운면 망치3길 4(주1동 1층, 주2동 1~2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-200",
+    "category": "식당",
+    "name": "신전떡볶이삼천포점",
+    "region": "경남",
+    "address": "경상남도 사천시 주공로 35(벌리동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-201",
+    "category": "식당",
+    "name": "커피팀버사천포레스트",
+    "region": "경남",
+    "address": "경상남도 사천시 사남면 병둔1길 7(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-202",
+    "category": "식당",
+    "name": "종삐상회",
+    "region": "경남",
+    "address": "경상남도 창원시 성산구 마디미로31번길 13(비전빌딩 3층 302호 상남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-203",
+    "category": "식당",
+    "name": "힐브리즈",
+    "region": "경남",
+    "address": "경상남도 진주시 진산로 220(1층 일부 장재동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-204",
+    "category": "식당",
+    "name": "멍프리",
+    "region": "경남",
+    "address": "경상남도 김해시 한림면 한림로343번길 47-199",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-205",
+    "category": "식당",
+    "name": "에이에이에이(aaa)",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 황산로 681(2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-206",
+    "category": "식당",
+    "name": "네순도르마",
+    "region": "경남",
+    "address": "경상남도 고성군 동해면 외산로 549(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-207",
+    "category": "식당",
+    "name": "똥개애견카페",
+    "region": "경남",
+    "address": "경상남도 밀양시 용평로 377(1층 교동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-208",
+    "category": "식당",
+    "name": "강아지트",
+    "region": "경남",
+    "address": "경상남도 밀양시 미리벌로3길 28(1층 삼문동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-209",
+    "category": "식당",
+    "name": "그라운드펫",
+    "region": "경남",
+    "address": "경상남도 밀양시 하남읍 양명길 999-16(다동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-210",
+    "category": "식당",
+    "name": "ESSOR(카페잇소)",
+    "region": "경남",
+    "address": "경상남도 밀양시 삼랑진읍 행곡로 425-1(1,2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-211",
+    "category": "식당",
+    "name": "어서,이곳",
+    "region": "경남",
+    "address": "경상남도 밀양시 산내면 산내용전1길 22-13",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-212",
+    "category": "식당",
+    "name": "오르다",
+    "region": "경남",
+    "address": "경상남도 밀양시 삼랑진읍 행곡1길 180-7(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-213",
+    "category": "식당",
+    "name": "차곰차곰",
+    "region": "경남",
+    "address": "경상남도 밀양시 백민로1길 11(1층 내이동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-214",
+    "category": "식당",
+    "name": "오로라 힐스",
+    "region": "경남",
+    "address": "경상남도 밀양시 초동면 검암4길 96-46(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-215",
+    "category": "식당",
+    "name": "헤이그린(Hey green)",
+    "region": "경남",
+    "address": "경상남도 김해시 김해대로2324번길 28-10(1층 봉황동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-216",
+    "category": "식당",
+    "name": "포둥포둥",
+    "region": "경남",
+    "address": "경상남도 창원시 마산회원구 내서읍 광려로 407(지상1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-217",
+    "category": "식당",
+    "name": "퀸즈(Queens)",
+    "region": "경남",
+    "address": "경상남도 창원시 마산합포구 구산면 안녕로 427-1(1층, 2층, 옥탑층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-218",
+    "category": "식당",
+    "name": "마리나카페",
+    "region": "경남",
+    "address": "경상남도 거제시 일운면 거제대로 2660(C동 지하2층 B220호 대명리조트거제휴양콘도미니엄)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-219",
+    "category": "식당",
+    "name": "몬테로쏘",
+    "region": "경남",
+    "address": "경상남도 거제시 일운면 거제대로 2660(에이동 지하1층 B106호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-220",
+    "category": "식당",
+    "name": "미야애견카페(MIYA)",
+    "region": "경남",
+    "address": "경상남도 진주시 개양로 244-10(1층 가좌동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-221",
+    "category": "식당",
+    "name": "행복길까페",
+    "region": "경남",
+    "address": "경상남도 사천시 용두길 57(1층 용강동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-222",
+    "category": "식당",
+    "name": "노마드 주나오(nomad junao)",
+    "region": "경남",
+    "address": "경상남도 김해시 가락로 295(2층 구산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-223",
+    "category": "식당",
+    "name": "롱드 파티쓰리",
+    "region": "경남",
+    "address": "경상남도 김해시 해반천로 274(1층 삼계동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-224",
+    "category": "식당",
+    "name": "펫토피아",
+    "region": "경남",
+    "address": "경상남도 양산시 배움터길 60-30(1층 평산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-225",
+    "category": "식당",
+    "name": "장방뜨락",
+    "region": "경남",
+    "address": "경상남도 양산시 장흥4길 37(평산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-226",
+    "category": "식당",
+    "name": "진수캠프닉",
+    "region": "경남",
+    "address": "경상남도 양산시 원동면 어곡로 562(A동 C동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-227",
+    "category": "식당",
+    "name": "콜프로스터스",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 백호1길 13(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-228",
+    "category": "식당",
+    "name": "소울다이닝 바래",
+    "region": "경남",
+    "address": "경상남도 남해군 미조면 쏠비치길 21(쏠비치 리조트)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-229",
+    "category": "식당",
+    "name": "영운스테이가든",
+    "region": "경남",
+    "address": "경상남도 통영시 산양읍 산양일주로 321(나동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-230",
+    "category": "식당",
+    "name": "통영촌집담소화",
+    "region": "경남",
+    "address": "경상남도 통영시 산양읍 풍화일주로 649-17",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-231",
+    "category": "식당",
+    "name": "카페훈",
+    "region": "경남",
+    "address": "경상남도 통영시 광도면 죽림2로 14-7(102동 2층 4호 대우개발주죽림빌라)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-232",
+    "category": "식당",
+    "name": "유어커피",
+    "region": "경남",
+    "address": "경상남도 통영시 통영해안로 331-2(3층 중앙동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-233",
+    "category": "식당",
+    "name": "대석288",
+    "region": "경남",
+    "address": "경상남도 양산시 상북면 홍룡로 117(제1동~제13동, 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-234",
+    "category": "식당",
+    "name": "뜰아래채",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 삽량로 36(2층 205호 스타프라자)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-235",
+    "category": "식당",
+    "name": "메종누벨",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 물금중앙길 40",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-236",
+    "category": "식당",
+    "name": "카페 동백처럼",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 증산로 32-4(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-237",
+    "category": "식당",
+    "name": "댕댕댕",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 화산길 4-1(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-238",
+    "category": "식당",
+    "name": "애댕의숲",
+    "region": "경남",
+    "address": "경상남도 양산시 어실로 608-1(1층 어곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-239",
+    "category": "식당",
+    "name": "토그 커피샵(tog coffee shop)",
+    "region": "경남",
+    "address": "경상남도 김해시 김해대로2283번길 30(봉황동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-240",
+    "category": "식당",
+    "name": "브리앙뜨",
+    "region": "경남",
+    "address": "경상남도 김해시 율하숲길 16(5층 501 일부호 장유동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-241",
+    "category": "식당",
+    "name": "후르츠맨션",
+    "region": "경남",
+    "address": "경상남도 김해시 김해대로2325번길 32(1층 부원동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-242",
+    "category": "식당",
+    "name": "드 플뢰르",
+    "region": "경남",
+    "address": "경상남도 김해시 신어산길 37-2(1층 삼방동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-243",
+    "category": "식당",
+    "name": "노아의방주",
+    "region": "경남",
+    "address": "경상남도 사천시 정동면 화암길 180",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-244",
+    "category": "식당",
+    "name": "카페모사",
+    "region": "경남",
+    "address": "경상남도 사천시 석양길 220(대포동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-245",
+    "category": "식당",
+    "name": "제이스×윌로우커피",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 버들2길 7(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-246",
+    "category": "식당",
+    "name": "온후주",
+    "region": "경남",
+    "address": "경상남도 양산시 물금읍 화합4길 3-13(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-247",
+    "category": "식당",
+    "name": "마켓진양호",
+    "region": "경남",
+    "address": "경상남도 진주시 판문오동길115번길 52(1층일부 판문동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-248",
+    "category": "식당",
+    "name": "의성펫월드",
+    "region": "경북",
+    "address": "경상북도 의성군 단북면 안계길 255-13",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-249",
+    "category": "식당",
+    "name": "시야",
+    "region": "경북",
+    "address": "경상북도 안동시 태사2길 92(옥정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-250",
+    "category": "식당",
+    "name": "듀잇(DEW IT)",
+    "region": "경북",
+    "address": "경상북도 영천시 언하공단로 91-14(1,2층 망정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-251",
+    "category": "식당",
+    "name": "구계밀리",
+    "region": "경북",
+    "address": "경상북도 의성군 단촌면 구계리 758-5",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-252",
+    "category": "식당",
+    "name": "소담",
+    "region": "경북",
+    "address": "경상북도 경주시 보문로 402-12(신평동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-253",
+    "category": "식당",
+    "name": "오롯/로비라운지",
+    "region": "경북",
+    "address": "경상북도 경주시 보문로 402-12(소노캄경주 132일부호 신평동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-254",
+    "category": "식당",
+    "name": "(주)교원프라퍼티 키녹",
+    "region": "경북",
+    "address": "경상북도 경주시 보문로 280-12(지하1~1층 북군동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-255",
+    "category": "식당",
+    "name": "피자옥",
+    "region": "경북",
+    "address": "경상북도 경주시 손효자길 1(1층 황남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-256",
+    "category": "식당",
+    "name": "리커피하우스(re coffee house)",
+    "region": "경북",
+    "address": "경상북도 경주시 원효로 87(노동동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-257",
+    "category": "식당",
+    "name": "러블랑댕댕파크",
+    "region": "경북",
+    "address": "경상북도 포항시 북구 송라면 동해대로 3296(1~2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-258",
+    "category": "식당",
+    "name": "매드포갈릭 스타필드마켓경산점",
+    "region": "경북",
+    "address": "경상북도 경산시 옥산로 227(2층 중산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-259",
+    "category": "식당",
+    "name": "서울개공원",
+    "region": "경북",
+    "address": "경상북도 영천시 임고면 운주로 421-25",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-260",
+    "category": "식당",
+    "name": "또독하우스",
+    "region": "경북",
+    "address": "경상북도 구미시 산동읍 옥계2공단로 635(1동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-261",
+    "category": "식당",
+    "name": "잔잔바리",
+    "region": "경북",
+    "address": "경상북도 포항시 북구 천마로46번길 30(1층 양덕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-262",
+    "category": "식당",
+    "name": "무주",
+    "region": "경북",
+    "address": "경상북도 포항시 북구 법원로8번길 39-15(2층 장성동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-263",
+    "category": "식당",
+    "name": "카카베이커리",
+    "region": "경북",
+    "address": "경상북도 영덕군 영덕읍 중앙길 46(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-264",
+    "category": "식당",
+    "name": "스페이스임원",
+    "region": "경북",
+    "address": "경상북도 경산시 하양읍 금호강변로 700(A동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-265",
+    "category": "식당",
+    "name": "하우하이",
+    "region": "경북",
+    "address": "경상북도 포항시 북구 흥해읍 죽천길 49(1~2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-266",
+    "category": "식당",
+    "name": "온기",
+    "region": "경북",
+    "address": "경상북도 포항시 남구 효자동길6번길 38(1층 효자동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-267",
+    "category": "식당",
+    "name": "oki오키",
+    "region": "광주",
+    "address": "광주광역시 동구 동계로15번길 29(1층 동명동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-268",
+    "category": "식당",
+    "name": "무지상회",
+    "region": "광주",
+    "address": "광주광역시 남구 효천2로가길 21(1층 103호 임암동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-269",
+    "category": "식당",
+    "name": "조선피플",
+    "region": "광주",
+    "address": "광주광역시 남구 신만산길 51-5(1층 원산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-270",
+    "category": "식당",
+    "name": "개이트",
+    "region": "광주",
+    "address": "광주광역시 남구 이동길 96(1층 원산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-271",
+    "category": "식당",
+    "name": "무브스커피(MOVES COFFEE)",
+    "region": "광주",
+    "address": "광주광역시 남구 봉선1로 64(2층 봉선동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-272",
+    "category": "식당",
+    "name": "꽁냥꿍냥펫카페",
+    "region": "대구",
+    "address": "대구광역시 남구 대명남로 191(1층 대명동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-273",
+    "category": "식당",
+    "name": "02",
+    "region": "대구",
+    "address": "대구광역시 남구 계명중앙1길 42(1층 대명동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-274",
+    "category": "식당",
+    "name": "카파비바(KAFFAVIVA)",
+    "region": "대구",
+    "address": "대구광역시 수성구 동대구로74길 59(1층 범어동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-275",
+    "category": "식당",
+    "name": "포디어.(For Dear.)",
+    "region": "대구",
+    "address": "대구광역시 달서구 월배로 162(1층 상인동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-276",
+    "category": "식당",
+    "name": "도남개생활연구소",
+    "region": "대구",
+    "address": "대구광역시 북구 도남길 148-2(148-4, 1층 도남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-277",
+    "category": "식당",
+    "name": "강새이",
+    "region": "대구",
+    "address": "대구광역시 남구 현충로25길 5(3층 대명동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-278",
+    "category": "식당",
+    "name": "오퐁드부아",
+    "region": "대구",
+    "address": "대구광역시 달성군 가창면 주리2길 104",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-279",
+    "category": "식당",
+    "name": "오퐁드부아",
+    "region": "대구",
+    "address": "대구광역시 달성군 가창면 주리2길 104(2동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-280",
+    "category": "식당",
+    "name": "녹네커피",
+    "region": "대구",
+    "address": "대구광역시 수성구 상화로 79-9(1층 상동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-281",
+    "category": "식당",
+    "name": "공공산책(GONGGONGSANCHAEK)",
+    "region": "대구",
+    "address": "대구광역시 남구 현충로48길 7(1층 대명동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-282",
+    "category": "식당",
+    "name": "퍼피스 그린",
+    "region": "대전",
+    "address": "대전광역시 유성구 송정길84번길 66(지상1층 송정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-283",
+    "category": "식당",
+    "name": "그루그루",
+    "region": "대전",
+    "address": "대전광역시 유성구 반석로 136-28(지상1층 반석동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-284",
+    "category": "식당",
+    "name": "까사 드 까페",
+    "region": "대전",
+    "address": "대전광역시 유성구 봉명서로 9(지상 1층 봉명동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-285",
+    "category": "식당",
+    "name": "대전버거(TAEJON BURGER)",
+    "region": "대전",
+    "address": "대전광역시 동구 동광장로 86(1,2층 소제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-286",
+    "category": "식당",
+    "name": "루트커피 복합터미널점",
+    "region": "대전",
+    "address": "대전광역시 동구 동서대로 1677(1층 102,103호 용전동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-287",
+    "category": "식당",
+    "name": "(주)식사 다이너 대전점",
+    "region": "대전",
+    "address": "대전광역시 서구 둔산로31번길 56(2층 일부호 둔산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-288",
+    "category": "식당",
+    "name": "미들슬로우 궁동점",
+    "region": "대전",
+    "address": "대전광역시 유성구 농대로15번길 3(지상1층 궁동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-289",
+    "category": "식당",
+    "name": "금시월",
+    "region": "대전",
+    "address": "대전광역시 서구 용소로46번길 11(몽펠리에 1층 일부호 도안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-290",
+    "category": "식당",
+    "name": "데이오프",
+    "region": "대전",
+    "address": "대전광역시 서구 도안중로305번안길 59(1층 도안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-291",
+    "category": "식당",
+    "name": "몽베르트",
+    "region": "대전",
+    "address": "대전광역시 동구 충정로 37(1층 가양동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-292",
+    "category": "식당",
+    "name": "노프레임커피",
+    "region": "대전",
+    "address": "대전광역시 동구 홍도로46번길 100(1층 용전동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-293",
+    "category": "식당",
+    "name": "헤레디움카페(Heredium cafe)",
+    "region": "대전",
+    "address": "대전광역시 동구 대전로 735(1층 인동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-294",
+    "category": "식당",
+    "name": "코어카페 CORE CAFE",
+    "region": "대전",
+    "address": "대전광역시 동구 옥천로 56-1(2층 신흥동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-295",
+    "category": "식당",
+    "name": "낮밤",
+    "region": "대전",
+    "address": "대전광역시 동구 동대전로131번길 8-10(1층 자양동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-296",
+    "category": "식당",
+    "name": "견우재",
+    "region": "대전",
+    "address": "대전광역시 동구 대동천좌안5길 19(소제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-297",
+    "category": "식당",
+    "name": "엘 깜뽀 데 떼레노",
+    "region": "대전",
+    "address": "대전광역시 동구 대동천좌안5길 31(1,2층 소제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-298",
+    "category": "식당",
+    "name": "후루룩 대전",
+    "region": "대전",
+    "address": "대전광역시 동구 철갑2길 16(1층 소제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-299",
+    "category": "식당",
+    "name": "레이크 뷰",
+    "region": "대전",
+    "address": "대전광역시 동구 회남로275번길 197-6(1층 신촌동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-300",
+    "category": "식당",
+    "name": "풍류 소제",
+    "region": "대전",
+    "address": "대전광역시 동구 수향길 31(1층 소제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-301",
+    "category": "식당",
+    "name": "아트사이트 소제 카페",
+    "region": "대전",
+    "address": "대전광역시 동구 철갑3길 15(소제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-302",
+    "category": "식당",
+    "name": "원조황소삼춘네본점",
+    "region": "대전",
+    "address": "대전광역시 중구 대흥로157번길 35(1층 대흥동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-303",
+    "category": "식당",
+    "name": "그로브소제(grovesoje)",
+    "region": "대전",
+    "address": "대전광역시 동구 수향길 25(소제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-304",
+    "category": "식당",
+    "name": "카페니치어은점",
+    "region": "대전",
+    "address": "대전광역시 유성구 농대로8번길 7(지상1층 어은동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-305",
+    "category": "식당",
+    "name": "캡프로젝트",
+    "region": "대전",
+    "address": "대전광역시 대덕구 중리로53번길 42(1층 중리동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-306",
+    "category": "식당",
+    "name": "댕스파크",
+    "region": "대전",
+    "address": "대전광역시 서구 장안로 26-12(1층 흑석동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-307",
+    "category": "식당",
+    "name": "라온 RAON",
+    "region": "대전",
+    "address": "대전광역시 서구 관저북로13번길 23-12(108,109호 관저동, 한빛빌딩)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-308",
+    "category": "식당",
+    "name": "이니셜 initial",
+    "region": "대전",
+    "address": "대전광역시 서구 도안북로118번길 73(1층 도안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-309",
+    "category": "식당",
+    "name": "롤라 Lolla",
+    "region": "대전",
+    "address": "대전광역시 동구 회남로275번길 123(신촌동411-1 신촌동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-310",
+    "category": "식당",
+    "name": "별빛이흐르는카페",
+    "region": "대전",
+    "address": "대전광역시 동구 동대전로110번길 176(대동, 지하1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-311",
+    "category": "식당",
+    "name": "블루코스모스",
+    "region": "부산",
+    "address": "부산광역시 수영구 광안로35번길 71(1층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-312",
+    "category": "식당",
+    "name": "주식회사 셀라스",
+    "region": "부산",
+    "address": "부산광역시 금정구 금샘로 538(1층 남산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-313",
+    "category": "식당",
+    "name": "모치플레지르",
+    "region": "부산",
+    "address": "부산광역시 수영구 수영로545번길 17-17(1~2층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-314",
+    "category": "식당",
+    "name": "네이처스 세븐(nature's seven)",
+    "region": "부산",
+    "address": "부산광역시 해운대구 마린시티2로 33(104동 139-1호 일부호 우동, 해운대두산위브더제니스)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-315",
+    "category": "식당",
+    "name": "폴링인커피",
+    "region": "부산",
+    "address": "부산광역시 수영구 수영로594번길 63(1층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-316",
+    "category": "식당",
+    "name": "제전농원(cafe J.J. farm)",
+    "region": "부산",
+    "address": "부산광역시 기장군 정관읍 병산2로 38-25",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-317",
+    "category": "식당",
+    "name": "연남토마 롯데몰 동부산점",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데동부산프리미엄 구이구이코너 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-318",
+    "category": "식당",
+    "name": "스시츠카무 동부산점",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-319",
+    "category": "식당",
+    "name": "수훈식당",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-320",
+    "category": "식당",
+    "name": "알로이스삥삥",
+    "region": "부산",
+    "address": "부산광역시 수영구 광안해변로344번길 17-17(수변PLAZA 2층 민락동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-321",
+    "category": "식당",
+    "name": "클로씨(CLOSEA)",
+    "region": "부산",
+    "address": "부산광역시 수영구 민락로33번길 17(1층 민락동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-322",
+    "category": "식당",
+    "name": "코펜하겐(CPH)",
+    "region": "부산",
+    "address": "부산광역시 수영구 남천바다로21번길 47(중원빌딩 1층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-323",
+    "category": "식당",
+    "name": "컴팩트 프리덤",
+    "region": "부산",
+    "address": "부산광역시 수영구 광남로 77-1(2층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-324",
+    "category": "식당",
+    "name": "광안리브런치 컴앤씨미",
+    "region": "부산",
+    "address": "부산광역시 수영구 수영로540번길 51(2층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-325",
+    "category": "식당",
+    "name": "부산대 비비드드림 본점",
+    "region": "부산",
+    "address": "부산광역시 금정구 장전로12번길 18-6(2층 장전동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-326",
+    "category": "식당",
+    "name": "용궁해물칼국수",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 128(큐리오시티 101,102-1호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-327",
+    "category": "식당",
+    "name": "구사구칠",
+    "region": "부산",
+    "address": "부산광역시 수영구 광서로 5-4(1층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-328",
+    "category": "식당",
+    "name": "온어스(ONUS)",
+    "region": "부산",
+    "address": "부산광역시 연제구 해맞이로 67(1층 거제동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-329",
+    "category": "식당",
+    "name": "화덕에 구어락",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 615-6(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-330",
+    "category": "식당",
+    "name": "셀라스(SELAHS)",
+    "region": "부산",
+    "address": "부산광역시 금정구 금샘로 538(1,2층 남산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-331",
+    "category": "식당",
+    "name": "캐트(KATT)",
+    "region": "부산",
+    "address": "부산광역시 동구 수정로 27(1층 수정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-332",
+    "category": "식당",
+    "name": "광안야행",
+    "region": "부산",
+    "address": "부산광역시 수영구 남천동로108번길 54(지하1층 1~3호 남천동, 태광)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-333",
+    "category": "식당",
+    "name": "정담",
+    "region": "부산",
+    "address": "부산광역시 기장군 일광읍 문오성길 317-4(1,2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-334",
+    "category": "식당",
+    "name": "그랜드파더케이크하우스",
+    "region": "부산",
+    "address": "부산광역시 수영구 남천바다로15번길 93(2층 광안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-335",
+    "category": "식당",
+    "name": "오구",
+    "region": "부산",
+    "address": "부산광역시 영도구 남항서로 52(남항동3가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-336",
+    "category": "식당",
+    "name": "새마을식당 동부산 롯데아울렛점",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-337",
+    "category": "식당",
+    "name": "솔솥 롯데아울렛 동부산점",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-338",
+    "category": "식당",
+    "name": "이가네 떡볶이",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-339",
+    "category": "식당",
+    "name": "온기정 동부산롯데점",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-340",
+    "category": "식당",
+    "name": "할매손충무김밥",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-341",
+    "category": "식당",
+    "name": "한양중식",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-342",
+    "category": "식당",
+    "name": "케이쏨차이(동부산)",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-343",
+    "category": "식당",
+    "name": "고피자-롯데프리미엄아울렛동부산점",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(롯데몰 동부산점 3층 테이스티그라운드호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-344",
+    "category": "식당",
+    "name": "동경규동(동부산점)",
+    "region": "부산",
+    "address": "부산광역시 기장군 기장읍 기장해안로 147(동부산롯데몰 동경규동 3층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-345",
+    "category": "식당",
+    "name": "멜리",
+    "region": "서울",
+    "address": "서울특별시 용산구 두텁바위로 137(1층 101호 후암동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-346",
+    "category": "식당",
+    "name": "허그허그러브",
+    "region": "서울",
+    "address": "서울특별시 마포구 동교로51길 111(2층 연남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-347",
+    "category": "식당",
+    "name": "금은방",
+    "region": "서울",
+    "address": "서울특별시 성동구 송정14길 1(지1층 송정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-348",
+    "category": "식당",
+    "name": "노스티 상일점",
+    "region": "서울",
+    "address": "서울특별시 강동구 상일로7길 11(101,102호 상일동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-349",
+    "category": "식당",
+    "name": "레오과자점",
+    "region": "서울",
+    "address": "서울특별시 강동구 성내로14길 18(113호 성내동, 선광아파트)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-350",
+    "category": "식당",
+    "name": "사루",
+    "region": "서울",
+    "address": "서울특별시 중구 동호로12길 53(1층 신당동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-351",
+    "category": "식당",
+    "name": "에놀라 톤",
+    "region": "서울",
+    "address": "서울특별시 관악구 신사로 114(1층 신림동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-352",
+    "category": "식당",
+    "name": "심플매터 커피 로스터스 SIMPLE MATTER",
+    "region": "서울",
+    "address": "서울특별시 강서구 강서로7길 31(태양빌딩 1층 화곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-353",
+    "category": "식당",
+    "name": "커스텀커피 마곡나루점",
+    "region": "서울",
+    "address": "서울특별시 강서구 마곡서로 170(마곡시티오피스텔 1층 105호 마곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-354",
+    "category": "식당",
+    "name": "the whatever(더 왓에버)",
+    "region": "서울",
+    "address": "서울특별시 강서구 마곡중앙2로 15(1층 115~119호 마곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-355",
+    "category": "식당",
+    "name": "서초커피작업실(Gilmajoong-gil)",
+    "region": "서울",
+    "address": "서울특별시 서초구 서운로1길 25(1층 서초동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-356",
+    "category": "식당",
+    "name": "댕크(Dank)",
+    "region": "서울",
+    "address": "서울특별시 서초구 사평대로57길 96(1층 반포동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-357",
+    "category": "식당",
+    "name": "레발콩",
+    "region": "서울",
+    "address": "서울특별시 서초구 방배천로 92(101호,102호,104호 방배동, 세양아르비채)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-358",
+    "category": "식당",
+    "name": "아리",
+    "region": "서울",
+    "address": "서울특별시 서초구 강남대로12길 41(103호 양재동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-359",
+    "category": "식당",
+    "name": "아우어루꼴라",
+    "region": "서울",
+    "address": "서울특별시 강서구 마곡중앙6로 10(마곡역센트럴푸르지오시티 1, 2층 113, 209호 마곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-360",
+    "category": "식당",
+    "name": "리플렉트",
+    "region": "서울",
+    "address": "서울특별시 서초구 남부순환로347길 53(104호 서초동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-361",
+    "category": "식당",
+    "name": "희희잇",
+    "region": "서울",
+    "address": "서울특별시 강서구 마곡중앙4로 22(파인스퀘어 A동 117호 마곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-362",
+    "category": "식당",
+    "name": "타프나드",
+    "region": "서울",
+    "address": "서울특별시 마포구 만리재로 90(블레스하임 3차 지1층 101호 공덕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-363",
+    "category": "식당",
+    "name": "브라운씨",
+    "region": "서울",
+    "address": "서울특별시 강서구 강서로47가길 33(덕산빌딩 1층 104호 내발산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-364",
+    "category": "식당",
+    "name": "무무무",
+    "region": "서울",
+    "address": "서울특별시 강서구 강서로47길 60(1층 101호 내발산동, 코이노니아 스테이)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-365",
+    "category": "식당",
+    "name": "서울안심정육 마곡점",
+    "region": "서울",
+    "address": "서울특별시 강서구 마곡중앙6로 76-3(인터시티365 지하1층 제비01호,제비02호 마곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-366",
+    "category": "식당",
+    "name": "영동포차나",
+    "region": "서울",
+    "address": "서울특별시 강남구 언주로148길 14(청호불교문화원 나동 지상2층 208호,209호 논현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-367",
+    "category": "식당",
+    "name": "맘마앤독",
+    "region": "서울",
+    "address": "서울특별시 강남구 선릉로125길 10(지상1층 논현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-368",
+    "category": "식당",
+    "name": "선유슬로우(sunu.slow)",
+    "region": "서울",
+    "address": "서울특별시 영등포구 선유로53길 34-8(양평동4가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-369",
+    "category": "식당",
+    "name": "저스트시즌(just season)",
+    "region": "서울",
+    "address": "서울특별시 도봉구 도봉로110다길 26(1층 101호 창동, 현대빌리지)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-370",
+    "category": "식당",
+    "name": "OU_TOPOS(우토포스)",
+    "region": "서울",
+    "address": "서울특별시 서초구 방배로39길 42-7(1층 방배동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-371",
+    "category": "식당",
+    "name": "네가 있어 고마워",
+    "region": "서울",
+    "address": "서울특별시 영등포구 양평로28길 33(제이동 1층 101호 양평동6가, 아트리버빌)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-372",
+    "category": "식당",
+    "name": "디어피피 펫푸드 앤 카페",
+    "region": "서울",
+    "address": "서울특별시 영등포구 도신로15다길 1(1층 102호 도림동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-373",
+    "category": "식당",
+    "name": "포엣룸",
+    "region": "서울",
+    "address": "서울특별시 영등포구 도림로141가길 4(1층 문래동4가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-374",
+    "category": "식당",
+    "name": "피자사만다 강남구청점",
+    "region": "서울",
+    "address": "서울특별시 강남구 선릉로125길 5-6(1층 논현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-375",
+    "category": "식당",
+    "name": "일과",
+    "region": "서울",
+    "address": "서울특별시 마포구 토정로 241(신수동, 1층일부)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-376",
+    "category": "식당",
+    "name": "춘천진숯불닭갈비",
+    "region": "서울",
+    "address": "서울특별시 마포구 성암로15길 7-1(1,2층 상암동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-377",
+    "category": "식당",
+    "name": "써머레인",
+    "region": "서울",
+    "address": "서울특별시 용산구 이태원로55가길 49(1층 한남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-378",
+    "category": "식당",
+    "name": "오베뉴 한남",
+    "region": "서울",
+    "address": "서울특별시 용산구 한남대로20길 47-18(1층 한남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-379",
+    "category": "식당",
+    "name": "유아마이젤라또(You are my gelato)",
+    "region": "서울",
+    "address": "서울특별시 영등포구 도림로 425(1층 문래동2가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-380",
+    "category": "식당",
+    "name": "그린룸 GRIN ROOM",
+    "region": "서울",
+    "address": "서울특별시 성동구 왕십리로 136(3층 성수동1가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-381",
+    "category": "식당",
+    "name": "Spring moment(스프링 모먼트)",
+    "region": "서울",
+    "address": "서울특별시 관악구 낙성대역3길 24(1층 102호 봉천동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-382",
+    "category": "식당",
+    "name": "카페 암스테르담",
+    "region": "서울",
+    "address": "서울특별시 강남구 학동로31길 13(청양해운빌딩 지상1층 논현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-383",
+    "category": "식당",
+    "name": "헤비",
+    "region": "서울",
+    "address": "서울특별시 영등포구 도림로113길 3-2(1층 도림동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-384",
+    "category": "식당",
+    "name": "헤비로테이트",
+    "region": "서울",
+    "address": "서울특별시 영등포구 도신로19길 22(1층 도림동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-385",
+    "category": "식당",
+    "name": "메쉬커피(Mesh Coffee-24)",
+    "region": "서울",
+    "address": "서울특별시 강남구 도산대로17길 8(지상1층 101호 신사동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-386",
+    "category": "식당",
+    "name": "멍뭉다방",
+    "region": "서울",
+    "address": "서울특별시 중랑구 용마산로 299(4층 면목동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-387",
+    "category": "식당",
+    "name": "모스가든",
+    "region": "서울",
+    "address": "서울특별시 강남구 논현로139길 12(지상1층 논현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-388",
+    "category": "식당",
+    "name": "펫타리움 청담점",
+    "region": "서울",
+    "address": "서울특별시 강남구 영동대로 725(지상6층 청담동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-389",
+    "category": "식당",
+    "name": "왕스덕",
+    "region": "서울",
+    "address": "서울특별시 강남구 도산대로 130(지하1층 논현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-390",
+    "category": "식당",
+    "name": "여의도커피",
+    "region": "서울",
+    "address": "서울특별시 영등포구 여의대방로 386(여의도동, 진주상가2층211,212호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-391",
+    "category": "식당",
+    "name": "그랑웨이브(GRANWAVE)",
+    "region": "서울",
+    "address": "서울특별시 마포구 희우정로20길 63(1층 일부 좌측호 망원동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-392",
+    "category": "식당",
+    "name": "숩숩(sup sup)",
+    "region": "서울",
+    "address": "서울특별시 송파구 올림픽로4길 17(아시아선수촌아파트 중심상가 2층 279호 잠실동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-393",
+    "category": "식당",
+    "name": "비비드(ViVi:D)",
+    "region": "서울",
+    "address": "서울특별시 종로구 비봉2길 10(103호 구기동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-394",
+    "category": "식당",
+    "name": "커피스토어(COFFEE.STORE)",
+    "region": "서울",
+    "address": "서울특별시 성북구 안암로5길 72(백남빌딩 지상1층 103,104호 안암동3가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-395",
+    "category": "식당",
+    "name": "설곡랩커피로스터스",
+    "region": "서울",
+    "address": "서울특별시 성북구 안암로5길 22(청우빌라 1층 안암동4가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-396",
+    "category": "식당",
+    "name": "부트 카페 서울",
+    "region": "서울",
+    "address": "서울특별시 종로구 자하문로 46(창성동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-397",
+    "category": "식당",
+    "name": "리크커피클럽",
+    "region": "서울",
+    "address": "서울특별시 강동구 암사길 9(1층 101호 암사동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-398",
+    "category": "식당",
+    "name": "그레이 펭귄 커피",
+    "region": "서울",
+    "address": "서울특별시 성동구 서울숲4길 26-14(1층 성수동1가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-399",
+    "category": "식당",
+    "name": "오아제",
+    "region": "서울",
+    "address": "서울특별시 성동구 독서당로 253(1,2층 금호동4가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-400",
+    "category": "식당",
+    "name": "LUV PLUTO 러브 플루토",
+    "region": "서울",
+    "address": "서울특별시 서대문구 불광천길 180(지하1층, 1층 101호 북가좌동, 아임빌)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-401",
+    "category": "식당",
+    "name": "씬(scene)",
+    "region": "서울",
+    "address": "서울특별시 마포구 동교로51길 117-3(1층 연남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-402",
+    "category": "식당",
+    "name": "먹태의꿈",
+    "region": "서울",
+    "address": "서울특별시 성동구 금호로 168(금호동1가,지상1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-403",
+    "category": "식당",
+    "name": "카페 드뉴(Denu)",
+    "region": "서울",
+    "address": "서울특별시 마포구 독막로24길 11(1층 일부호 구수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-404",
+    "category": "식당",
+    "name": "어피럽",
+    "region": "서울",
+    "address": "서울특별시 강동구 성안로 25(1층 성내동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-405",
+    "category": "식당",
+    "name": "리몬 서울",
+    "region": "서울",
+    "address": "서울특별시 성북구 동소문로6길 20-34(지상1층 동소문동2가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-406",
+    "category": "식당",
+    "name": "뭉치",
+    "region": "서울",
+    "address": "서울특별시 종로구 지봉로 78(미래빌딩 3층 숭인동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-407",
+    "category": "식당",
+    "name": "콘파타테",
+    "region": "서울",
+    "address": "서울특별시 관악구 관악로12길 72(지층 1호 봉천동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-408",
+    "category": "식당",
+    "name": "CAFE LILY",
+    "region": "서울",
+    "address": "서울특별시 노원구 동일로 1456(101호 상계동, 상계주공7단지아파트)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-409",
+    "category": "식당",
+    "name": "언톨드(UNTOLD)",
+    "region": "서울",
+    "address": "서울특별시 강동구 올림픽로60길 14(1층 101호 성내동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-410",
+    "category": "식당",
+    "name": "엔바이콘",
+    "region": "서울",
+    "address": "서울특별시 강남구 논현로149길 66(지하1,2층 논현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-411",
+    "category": "식당",
+    "name": "엔트런스",
+    "region": "서울",
+    "address": "서울특별시 서초구 사임당로19길 72-3(지층 서초동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-412",
+    "category": "식당",
+    "name": "HeyVERT",
+    "region": "서울",
+    "address": "서울특별시 서초구 서래로6길 25(1층 반포동, 궁전타운)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-413",
+    "category": "식당",
+    "name": "에이치비씨(HBC)",
+    "region": "서울",
+    "address": "서울특별시 성동구 둘레15길 4-1(1층 성수동2가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-414",
+    "category": "식당",
+    "name": "마이즈루",
+    "region": "서울",
+    "address": "서울특별시 성동구 성덕정17길 7-1(1층 성수동2가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-415",
+    "category": "식당",
+    "name": "림보",
+    "region": "서울",
+    "address": "서울특별시 성동구 성덕정19길 17-1(1층 성수동2가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-416",
+    "category": "식당",
+    "name": "옥상나들이",
+    "region": "서울",
+    "address": "서울특별시 영등포구 문래북로 52(4층 문래동3가, 은진빌딩)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-417",
+    "category": "식당",
+    "name": "커피 리브레",
+    "region": "서울",
+    "address": "서울특별시 마포구 성미산로29길 17-8(1,2,지1층 연남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-418",
+    "category": "식당",
+    "name": "카페리브레",
+    "region": "서울",
+    "address": "서울특별시 마포구 성미산로32길 20-5(1,2층 연남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-419",
+    "category": "식당",
+    "name": "카페라",
+    "region": "서울",
+    "address": "서울특별시 성동구 송정18가길 9(송정동 공공복합청사 1층 송정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-420",
+    "category": "식당",
+    "name": "시월에 토리",
+    "region": "서울",
+    "address": "서울특별시 중랑구 용마산로 670(A동 104호 망우동, 신내역 프라디움 더 테라스)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-421",
+    "category": "식당",
+    "name": "강릉장칼 신내역점",
+    "region": "서울",
+    "address": "서울특별시 중랑구 용마산로 670(B동 2층 B225호,B226호,B227호,B228호 망우동, 신내역 프라디움 더 테라스)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-422",
+    "category": "식당",
+    "name": "마이닥스",
+    "region": "서울",
+    "address": "서울특별시 중랑구 면목로 306(2층 면목동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-423",
+    "category": "식당",
+    "name": "다니엘 카페&펍 by waff",
+    "region": "서울",
+    "address": "서울특별시 성동구 광나루로11길 45(1층 101호 송정동, 양지쉐르빌)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-424",
+    "category": "식당",
+    "name": "바밤바(Bar Bam Bar)",
+    "region": "서울",
+    "address": "서울특별시 영등포구 영중로4길 25(영등포동3가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-425",
+    "category": "식당",
+    "name": "포차 몽",
+    "region": "서울",
+    "address": "서울특별시 구로구 공원로9길 14(1층 구로동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-426",
+    "category": "식당",
+    "name": "(주)커피빈코리아 몽촌토성역점",
+    "region": "서울",
+    "address": "서울특별시 송파구 위례성대로 2(장은빌딩 1층 방이동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-427",
+    "category": "식당",
+    "name": "(주)커피빈코리아 송파파크하비오점",
+    "region": "서울",
+    "address": "서울특별시 송파구 송파대로 111(205동 1층 문정동, 파크하비오)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-428",
+    "category": "식당",
+    "name": "크로피 croffee",
+    "region": "서울",
+    "address": "서울특별시 송파구 백제고분로45길 30(송파동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-429",
+    "category": "식당",
+    "name": "바크바",
+    "region": "서울",
+    "address": "서울특별시 노원구 노원로26길 69(오성빌딩 2층 상계동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-430",
+    "category": "식당",
+    "name": "맘마",
+    "region": "서울",
+    "address": "서울특별시 송파구 중대로 312(D.S 타워 1층 오금동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-431",
+    "category": "식당",
+    "name": "호미커피 HOMI COFFEE",
+    "region": "서울",
+    "address": "서울특별시 송파구 위례광장로 136(상가 4동 D-115호 장지동, 위례아이파크)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-432",
+    "category": "식당",
+    "name": "크림베이글 잠실점",
+    "region": "서울",
+    "address": "서울특별시 송파구 송파대로 473(1층 101호 석촌동, 양지473)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-433",
+    "category": "식당",
+    "name": "큐큐큐큐(QQQQ)",
+    "region": "서울",
+    "address": "서울특별시 송파구 오금로20길 4(1층 103호 송파동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-434",
+    "category": "식당",
+    "name": "밉 MIP",
+    "region": "서울",
+    "address": "서울특별시 송파구 석촌호수로 272(대림빌딩 1층 송파동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-435",
+    "category": "식당",
+    "name": "서아진 루프탑 송리단길점",
+    "region": "서울",
+    "address": "서울특별시 송파구 백제고분로43길 27(5층,옥탑1층 송파동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-436",
+    "category": "식당",
+    "name": "푸르토아(pour toi)",
+    "region": "서울",
+    "address": "서울특별시 금천구 독산로54길 41(지하 1층 독산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-437",
+    "category": "식당",
+    "name": "97.7화씨",
+    "region": "서울",
+    "address": "서울특별시 중구 난계로15길 41-7(지하1층 황학동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-438",
+    "category": "식당",
+    "name": "퍼그피자하우스 신림점",
+    "region": "서울",
+    "address": "서울특별시 관악구 신림로 363(지상 1~3층 신림동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-439",
+    "category": "식당",
+    "name": "크림빔(Cream Beam)",
+    "region": "서울",
+    "address": "서울특별시 강서구 강서로15길 119(1층 화곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-440",
+    "category": "식당",
+    "name": "도그피에스",
+    "region": "서울",
+    "address": "서울특별시 금천구 시흥대로39길 16(한영상가 3층 1호 시흥동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-441",
+    "category": "식당",
+    "name": "9램(9ram)",
+    "region": "서울",
+    "address": "서울특별시 마포구 포은로 105(2층 망원동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-442",
+    "category": "식당",
+    "name": "로얄테라스 가든",
+    "region": "서울",
+    "address": "서울특별시 송파구 올림픽로 300(롯데월드타워앤드롯데월드몰 지하1층 신천동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-443",
+    "category": "식당",
+    "name": "Hrr(흐르르)",
+    "region": "서울",
+    "address": "서울특별시 서초구 잠원로 201-12(1층 잠원동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-444",
+    "category": "식당",
+    "name": "청춘식당 미래소년",
+    "region": "서울",
+    "address": "서울특별시 서초구 나루터로12길 30(미르빌딩 1층 잠원동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-445",
+    "category": "식당",
+    "name": "꼬미다 큐큐큐 (Comida QQQ)",
+    "region": "서울",
+    "address": "서울특별시 서초구 강남대로12길 41(101,102호 양재동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-446",
+    "category": "식당",
+    "name": "어딕티브",
+    "region": "서울",
+    "address": "서울특별시 서초구 주흥길 64-17(1층 102호 반포동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-447",
+    "category": "식당",
+    "name": "브루잉이펙트",
+    "region": "서울",
+    "address": "서울특별시 서초구 청룡마을길 17-4(신원동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-448",
+    "category": "식당",
+    "name": "리프레셔스",
+    "region": "서울",
+    "address": "서울특별시 서초구 청두곶6길 8(1층 방배동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-449",
+    "category": "식당",
+    "name": "밀거래",
+    "region": "서울",
+    "address": "서울특별시 성북구 동소문로22길 57-6(동선동2가,지상1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-450",
+    "category": "식당",
+    "name": "천상가옥",
+    "region": "서울",
+    "address": "서울특별시 성동구 성수이로14길 14(주대명케미칼 나동 2,3층 성수동2가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-451",
+    "category": "식당",
+    "name": "트래키(TRAKII)",
+    "region": "서울",
+    "address": "서울특별시 강남구 강남대로42길 23(1층 101호 도곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-452",
+    "category": "식당",
+    "name": "다이너 세종점",
+    "region": "세종",
+    "address": "세종특별자치시 마음안1로 137(가락마을18단지 근린생활시설 상가2동 1층 206~209호 고운동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-453",
+    "category": "식당",
+    "name": "피노(PINO)",
+    "region": "세종",
+    "address": "세종특별자치시 금남면 호탄길 35-3(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-454",
+    "category": "식당",
+    "name": "파툼커피바",
+    "region": "울산",
+    "address": "울산광역시 중구 태화강국가정원길 189(1,2층 태화동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-455",
+    "category": "식당",
+    "name": "개들랜드",
+    "region": "울산",
+    "address": "울산광역시 울주군 서생면 홍골들길 41(A동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-456",
+    "category": "식당",
+    "name": "간절곶 마실감 울산서생본점",
+    "region": "울산",
+    "address": "울산광역시 울주군 서생면 해맞이로 1220(1, 2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-457",
+    "category": "식당",
+    "name": "인천대공원 바베큐식당 인더캠핑",
+    "region": "인천",
+    "address": "인천광역시 남동구 만의골로189번길 29(가동,나동 1층 전체호 장수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-458",
+    "category": "식당",
+    "name": "소설원 만수",
+    "region": "인천",
+    "address": "인천광역시 남동구 인주대로 840(1,2층 만수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-459",
+    "category": "식당",
+    "name": "카페썸모어",
+    "region": "인천",
+    "address": "인천광역시 연수구 신송로 154(더 제니스 103,104호 송도동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-460",
+    "category": "식당",
+    "name": "하비파크",
+    "region": "인천",
+    "address": "인천광역시 남동구 만의골로195번길 46(1층 장수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-461",
+    "category": "식당",
+    "name": "리트리트",
+    "region": "인천",
+    "address": "인천광역시 중구 자연대로 219-5(1층 중산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-462",
+    "category": "식당",
+    "name": "베토벤하우스",
+    "region": "인천",
+    "address": "인천광역시 중구 용유서로2번길 11(1,2층 남북동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-463",
+    "category": "식당",
+    "name": "기노스코",
+    "region": "인천",
+    "address": "인천광역시 연수구 아트센터대로 203(113호 송도동, 송도센트럴파크푸르지오시티)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-464",
+    "category": "식당",
+    "name": "공을기",
+    "region": "인천",
+    "address": "인천광역시 부평구 부평대로63번길 10-4(1~2층 부평동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-465",
+    "category": "식당",
+    "name": "피크닉브루어스(piknic brewers)",
+    "region": "인천",
+    "address": "인천광역시 부평구 신트리로 42(1층 일부 부평동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-466",
+    "category": "식당",
+    "name": "(주)농가의 식탁 인천점",
+    "region": "인천",
+    "address": "인천광역시 연수구 청능대로23번길 11(LF스퀘어 인천점 지하1층 일부호 청학동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-467",
+    "category": "식당",
+    "name": "BeansMan(빈스맨)",
+    "region": "인천",
+    "address": "인천광역시 중구 인중로164번길 51(1층 답동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-468",
+    "category": "식당",
+    "name": "블루체어(BLUE CHAIR)",
+    "region": "인천",
+    "address": "인천광역시 남동구 장자로6번길 69(4층 장수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-469",
+    "category": "식당",
+    "name": "꿈꾸는카페-혜윰도그파크점",
+    "region": "인천",
+    "address": "인천광역시 연수구 송도교육로 110(주건축물1동 지상1층 일부호 송도동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-470",
+    "category": "식당",
+    "name": "산바다커피(SANBADA coffee)",
+    "region": "인천",
+    "address": "인천광역시 연수구 아트센터대로 203(송도 센트럴파크 푸르지오시티 지상1층 157호,158호,159일부호 송도동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-471",
+    "category": "식당",
+    "name": "카페홀리(CAFEHOLLY)",
+    "region": "인천",
+    "address": "인천광역시 남동구 만의골로195번길 16(1층 장수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-472",
+    "category": "식당",
+    "name": "뽁식당 구월점",
+    "region": "인천",
+    "address": "인천광역시 남동구 남동대로747번길 7(1층 구월동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-473",
+    "category": "식당",
+    "name": "그리너리 바스켓",
+    "region": "인천",
+    "address": "인천광역시 중구 백운로 510(1동 지1층 운북동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-474",
+    "category": "식당",
+    "name": "빵조각",
+    "region": "인천",
+    "address": "인천광역시 연수구 인천타워대로 257(송도 아트포레 푸르지오 시티 C동 C-122호 송도동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-475",
+    "category": "식당",
+    "name": "스왈로우",
+    "region": "인천",
+    "address": "인천광역시 중구 운남로82번길 5(1층 운남동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-476",
+    "category": "식당",
+    "name": "해상궁",
+    "region": "인천",
+    "address": "인천광역시 중구 마시란로 411(1층 전체호 을왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-477",
+    "category": "식당",
+    "name": "육백(肉百)",
+    "region": "인천",
+    "address": "인천광역시 중구 중산로 39-54(1층 중산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-478",
+    "category": "식당",
+    "name": "시루 앤 케이크",
+    "region": "인천",
+    "address": "인천광역시 중구 공항서로 459(1,2층 남북동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-479",
+    "category": "식당",
+    "name": "피어나",
+    "region": "인천",
+    "address": "인천광역시 중구 오작로20번길 4-11(1층 101,102,103호 중산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-480",
+    "category": "식당",
+    "name": "카페 로윅",
+    "region": "인천",
+    "address": "인천광역시 남동구 성말로32번길 11-4(지하1층 전부호 구월동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-481",
+    "category": "식당",
+    "name": "카페비에떼(CAFE b-ete)",
+    "region": "인천",
+    "address": "인천광역시 중구 자유공원남로 1(1층 101호 관동1가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-482",
+    "category": "식당",
+    "name": "블루베리",
+    "region": "인천",
+    "address": "인천광역시 중구 자연대로 7(블루오션 레지던스호텔 4차 1층 108~113호 중산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-483",
+    "category": "식당",
+    "name": "OWL's(아울스)",
+    "region": "인천",
+    "address": "인천광역시 중구 용유서로 140-2(1,2층 을왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-484",
+    "category": "식당",
+    "name": "블랑(BLANC)",
+    "region": "인천",
+    "address": "인천광역시 중구 을왕로 28(3층,4층 을왕동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-485",
+    "category": "식당",
+    "name": "숲속의 밤(A FOREST NIGHT)",
+    "region": "인천",
+    "address": "인천광역시 미추홀구 주안로205번길 7(사무실 1층 일부호 주안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-486",
+    "category": "식당",
+    "name": "산들비",
+    "region": "인천",
+    "address": "인천광역시 중구 운중로 140(1층 101호 중산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-487",
+    "category": "식당",
+    "name": "Better Days(베럴 데이즈)",
+    "region": "인천",
+    "address": "인천광역시 중구 영종진광장로 52(블루오션프라자 1층 106호 중산동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-488",
+    "category": "식당",
+    "name": "롱비치 커피앤브래드",
+    "region": "인천",
+    "address": "인천광역시 연수구 랜드마크로 194(방문자센터 1층 일부호, 지하1층 일부호 송도동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-489",
+    "category": "식당",
+    "name": "지구본",
+    "region": "인천",
+    "address": "인천광역시 연수구 송도과학로 56(송도테크노파크 BT센터 104,105호 송도동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-490",
+    "category": "식당",
+    "name": "스페인목장 Premium(프리미엄)",
+    "region": "인천",
+    "address": "인천광역시 연수구 센트럴로 232(E동 144~149호 송도동, 더샵센트럴파크1)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-491",
+    "category": "식당",
+    "name": "다이너(Diner)",
+    "region": "인천",
+    "address": "인천광역시 연수구 센트럴로 232(E동 지상1층 153,154호 송도동, 더샵센트럴파크1)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-492",
+    "category": "식당",
+    "name": "멍뭉멍뭉",
+    "region": "인천",
+    "address": "인천광역시 연수구 앵고개로264번길 41(한양2차아파트한양상가 상가비동 204일부호 동춘동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-493",
+    "category": "식당",
+    "name": "카페, 스페이드",
+    "region": "인천",
+    "address": "인천광역시 연수구 해돋이로 104(지상1층 106,107호 송도동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-494",
+    "category": "식당",
+    "name": "동백별관",
+    "region": "인천",
+    "address": "인천광역시 계양구 장제로 714(세종팰리스 1층 105호 작전동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-495",
+    "category": "식당",
+    "name": "(주)커피빈코리아 송도트리플스트리트점",
+    "region": "인천",
+    "address": "인천광역시 연수구 송도과학로16번길 33-4(D동 지상1,2층 119,207호 송도동, 송도트리플스트리트)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-496",
+    "category": "식당",
+    "name": "카페쉐어",
+    "region": "전남",
+    "address": "전라남도 순천시 매산길 77(1층 매곡동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-497",
+    "category": "식당",
+    "name": "디어 베스티",
+    "region": "전남",
+    "address": "전라남도 나주시 쌍산3길 41(1층상가 101호 빛가람동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-498",
+    "category": "식당",
+    "name": "머리하고놀다올개",
+    "region": "전남",
+    "address": "전라남도 목포시 자유로 88(2층 산정동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-499",
+    "category": "식당",
+    "name": "에델바이스",
+    "region": "전남",
+    "address": "전라남도 담양군 가사문학면 가사문학로 1097",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-500",
+    "category": "식당",
+    "name": "코코독스 애견카페",
+    "region": "전남",
+    "address": "전라남도 영암군 삼호읍 삼포로 181(코코독스)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-501",
+    "category": "식당",
+    "name": "달떡상회",
+    "region": "전남",
+    "address": "전라남도 영암군 군서면 평리길 99-22(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-502",
+    "category": "식당",
+    "name": "신아림카페",
+    "region": "전남",
+    "address": "전라남도 영암군 삼호읍 대불주거7로7길 27(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-503",
+    "category": "식당",
+    "name": "멍스타",
+    "region": "전남",
+    "address": "전라남도 담양군 담양읍 깊은실길 113",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-504",
+    "category": "식당",
+    "name": "휴식 HUSIK",
+    "region": "전남",
+    "address": "전라남도 담양군 가사문학면 가사문학로 1167",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-505",
+    "category": "식당",
+    "name": "소금빵제작소",
+    "region": "전남",
+    "address": "전라남도 광양시 눈소5길 22(1층중 1층일부 마동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-506",
+    "category": "식당",
+    "name": "피피엘(PPL)",
+    "region": "전북",
+    "address": "전북특별자치도 군산시 개정면 원아산2길 29-2",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-507",
+    "category": "식당",
+    "name": "댕댕플래닛",
+    "region": "전북",
+    "address": "전북특별자치도 정읍시 정읍남로 1446-44(시기동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-508",
+    "category": "식당",
+    "name": "협동조합마고",
+    "region": "전북",
+    "address": "전북특별자치도 남원시 시청북로 17(주1동 2층 도통동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-509",
+    "category": "식당",
+    "name": "필그린커피로스터스",
+    "region": "전북",
+    "address": "전북특별자치도 전주시 완산구 전라감영3길 20(1층 중앙동2가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-510",
+    "category": "식당",
+    "name": "카페에드모어",
+    "region": "전북",
+    "address": "전북특별자치도 전주시 덕진구 솔내로 108(1층 107호 송천동1가)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-511",
+    "category": "식당",
+    "name": "멜로우베이킹카페",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 조천읍 함와로 69(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-512",
+    "category": "식당",
+    "name": "롤러코스트",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 조천읍 조함해안로 592-4(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-513",
+    "category": "식당",
+    "name": "일기초록",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 신산로11길 15(1층 일도이동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-514",
+    "category": "식당",
+    "name": "1938함덕차관",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 조천읍 신북로 494(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-515",
+    "category": "식당",
+    "name": "오롬마르",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 애월읍 장유길 32-3",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-516",
+    "category": "식당",
+    "name": "커피빈제주애월DT점",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 애월읍 애월해안로 560(1~2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-517",
+    "category": "식당",
+    "name": "카페에벤에셀",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 1100로 3198-20(1층 노형동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-518",
+    "category": "식당",
+    "name": "라우나",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 인다13길 24(1층 아라일동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-519",
+    "category": "식당",
+    "name": "신창해물라면와랑식탁",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 한경면 한경해안로 512-8(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-520",
+    "category": "식당",
+    "name": "애월더선셋",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 애월읍 일주서로 6111(A동 지하1층, 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-521",
+    "category": "식당",
+    "name": "공탱크",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 한림읍 금능길 55(2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-522",
+    "category": "식당",
+    "name": "디사이드온",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 구좌읍 종달로1길 123(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-523",
+    "category": "식당",
+    "name": "행복이네",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 한림읍 한림로 343(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-524",
+    "category": "식당",
+    "name": "나무와풀",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 동광로5길 11-1(이도일동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-525",
+    "category": "식당",
+    "name": "줄라이앤어거스트",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 한경면 낙원로 93(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-526",
+    "category": "식당",
+    "name": "소노벨제주어멍",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 조천읍 신북로 577(신관동 B101호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-527",
+    "category": "식당",
+    "name": "삼다정",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 노연로 80(연동,1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-528",
+    "category": "식당",
+    "name": "도그모루",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 조천읍 함선로 142-3",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-529",
+    "category": "식당",
+    "name": "도그렉스",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 조천읍 함조길 8(가동, 나동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-530",
+    "category": "식당",
+    "name": "밥짓는시간",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 구좌읍 평대5길 25(2층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-531",
+    "category": "식당",
+    "name": "카페리",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 구좌읍 평대2길 39(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-532",
+    "category": "식당",
+    "name": "레크레",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 신비마을1길 54(1~2층 해안동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-533",
+    "category": "식당",
+    "name": "제주기와",
+    "region": "제주",
+    "address": "제주특별자치도 제주시 애월읍 광령남4길 45-1(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-534",
+    "category": "식당",
+    "name": "(주)엠게임",
+    "region": "충남",
+    "address": "충청남도 태안군 태안읍 그절미길 2-99(1동 1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-535",
+    "category": "식당",
+    "name": "세컨드힐",
+    "region": "충남",
+    "address": "충청남도 천안시 서북구 쌍용13길 18-7(1층 쌍용동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-536",
+    "category": "식당",
+    "name": "봉곡리커피",
+    "region": "충남",
+    "address": "충청남도 공주시 반포면 정광터1길 164-8(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-537",
+    "category": "식당",
+    "name": "열두집",
+    "region": "충남",
+    "address": "충청남도 아산시 탕정면 매곡로 12(1층 101호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-538",
+    "category": "식당",
+    "name": "밤이네",
+    "region": "충남",
+    "address": "충청남도 홍성군 홍북읍 충남대로 50(국제아르페온2차 126호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-539",
+    "category": "식당",
+    "name": "두루미책방",
+    "region": "충남",
+    "address": "충청남도 금산군 금산읍 금산천길 106(금산시장 3동 2층 1호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-540",
+    "category": "식당",
+    "name": "쇼에",
+    "region": "충북",
+    "address": "충청북도 청주시 청원구 오창읍 주성1길 12-2(101, 106호)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-541",
+    "category": "식당",
+    "name": "카페루(cafe-ru)",
+    "region": "충북",
+    "address": "충청북도 제천시 죽하로11안길 14(장락동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-542",
+    "category": "식당",
+    "name": "유나의정원",
+    "region": "충북",
+    "address": "충청북도 충주시 엄정면 족동2길 116(가동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-543",
+    "category": "식당",
+    "name": "세상상회",
+    "region": "충북",
+    "address": "충청북도 충주시 관아5길 4-1(성내동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-544",
+    "category": "식당",
+    "name": "언벌스데이(Unbirthday)",
+    "region": "충북",
+    "address": "충청북도 청주시 흥덕구 직지대로 587(1층 봉명동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-545",
+    "category": "식당",
+    "name": "더클라우드(The Cloud)",
+    "region": "충북",
+    "address": "충청북도 충주시 앙성면 산전장수1길 103",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-546",
+    "category": "식당",
+    "name": "카페 멍",
+    "region": "충북",
+    "address": "충청북도 제천시 송학면 의림대로46길 93(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-547",
+    "category": "식당",
+    "name": "능암골가든",
+    "region": "충북",
+    "address": "충청북도 충주시 앙성면 가곡로 1546",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-548",
+    "category": "식당",
+    "name": "커피정원",
+    "region": "충북",
+    "address": "충청북도 충주시 산척면 천등박달로 129(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-549",
+    "category": "식당",
+    "name": "아흐레커피",
+    "region": "충북",
+    "address": "충청북도 충주시 대흥길 42(교현동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-550",
+    "category": "식당",
+    "name": "선인의 향기",
+    "region": "충북",
+    "address": "충청북도 제천시 금성면 청풍호로31길 3",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-551",
+    "category": "식당",
+    "name": "선인의 정원",
+    "region": "충북",
+    "address": "충청북도 제천시 금성면 신담2길 6",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-552",
+    "category": "식당",
+    "name": "노이즈",
+    "region": "충북",
+    "address": "충청북도 청주시 상당구 교동로 24(1층 수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-553",
+    "category": "식당",
+    "name": "로스트앤베이크",
+    "region": "충북",
+    "address": "충청북도 청주시 청원구 상당로 220(1층 우암동, 주1동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-554",
+    "category": "식당",
+    "name": "보오",
+    "region": "충북",
+    "address": "충청북도 제천시 의림대로42길 102(1층 고암동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-555",
+    "category": "식당",
+    "name": "행복한 부엌쟁이의 작은식탁",
+    "region": "충북",
+    "address": "충청북도 청주시 상당구 탑동로 46-1(1층 일부호 탑동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-556",
+    "category": "식당",
+    "name": "민들레영토",
+    "region": "충북",
+    "address": "충청북도 충주시 동량면 지등로 1055",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-557",
+    "category": "식당",
+    "name": "송어야시장",
+    "region": "충북",
+    "address": "충청북도 충주시 앙성면 하너미로 792(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-558",
+    "category": "식당",
+    "name": "빨간사과",
+    "region": "충북",
+    "address": "충청북도 충주시 대소원면 황토골3길 26-17(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-559",
+    "category": "식당",
+    "name": "우미랑",
+    "region": "충북",
+    "address": "충청북도 충주시 앙성면 가곡로 948",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-560",
+    "category": "식당",
+    "name": "오름카페",
+    "region": "충북",
+    "address": "충청북도 충주시 발티길 126(직동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-561",
+    "category": "식당",
+    "name": "듀",
+    "region": "충북",
+    "address": "충청북도 충주시 연수동편3길 13(베스트빌 B동 101호 연수동)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-562",
+    "category": "식당",
+    "name": "더로드펍앤카페",
+    "region": "충북",
+    "address": "충청북도 충주시 대소원면 기업도시2로 14(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  },
+  {
+    "id": "food-563",
+    "category": "식당",
+    "name": "카페황가",
+    "region": "충북",
+    "address": "충청북도 충주시 주덕읍 청미길 35(1층)",
+    "tel": null,
+    "lat": null,
+    "lng": null,
+    "amenities": [
+      "반려동물 동반출입 음식점"
+    ],
+    "source": "식품안전나라_반려동물 동반출입 음식점 현황",
+    "geocoded": false
+  }
+]
